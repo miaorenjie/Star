@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Star</string>
+    <string name="navigation_match">星敏</string>
+    <string name="navigation_earth">地球</string>
+    <string name="navigation_photo">图库</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
